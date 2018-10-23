@@ -36,6 +36,3 @@ The process for installing Aureo in your Android Device is quite hard than other
 
 # Copyright 
 Fortunately, everything can be posted online without demands because we used an opensource software and the fount of the letters are also free to use. 
-
-# Brief Description of Aureos App
-This App was not without lucrative purposes, we made it with the main purpose of to give an outstanding feeling of what is stay in a TICs place. We have in mind to evolve this project in an App where no just the schedules are displayed if not the acknowledgement of each classroom and the projects we are being created. Also, for the future we thought about we could add the portfolio of each student.
