@@ -7,7 +7,7 @@ Here you will learn how to up to date this AR application. It should be noticed,
 ### iOS Devices
 
 Tools: Xcode, Unity (optional).
-Requirements: iOS since 7.0
+Requirements: iOS 7.0 or above
 
 The process for installing Aureo in your Apple Device is quite hard than others. You are going to need the compiler from Apple: XCode in order to build and run the app. The process is below:
 
@@ -19,7 +19,7 @@ The process for installing Aureo in your Apple Device is quite hard than others.
 
 ### Android Devices
 
-Requirements: Android Jelly Bean 4.1
+Requirements: Android Jelly Bean 4.1 or later
 
 The process for installing Aureo in your Android Device is quite hard than others. First of all we are going to download a APK file which is called BetaAureos1.0 or greater during this period October-November.
 1. Download the APK file
