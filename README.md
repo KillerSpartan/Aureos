@@ -7,6 +7,10 @@ Here you will learn how to up to date this AR application. It should be noticed,
 # Brief Description of Aureos App
 This App was not without lucrative purposes, we made it with the main purpose of to give an outstanding feeling of what is stay in a TICs place. We have in mind to evolve this project in an App where no just the schedules are displayed if not the acknowledgement of each classroom and the projects we are being created. Also, for the future we thought about we could add the portfolio of each student.
 
+
+# How to install it.
+
+
 ### iOS Devices
 
 Tools: Xcode, Unity (optional).
