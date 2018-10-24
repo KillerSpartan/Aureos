@@ -40,8 +40,8 @@ The process for installing Aureo in your Android Device is quite hard than any o
 Fortunately, everything can be posted online without demands because we used an opensource software and the fonts used are also free to use. 
 
 
-# Project and Executables on Android
+# Project Resources and Executables
 
-- Project [AureosOneDrive](https://1drv.ms/f/s!AnFzcM_9P2pTnBKyvulAo5ZH10Db)
+- Project Resources [AureosOneDrive](https://1drv.ms/f/s!AnFzcM_9P2pTnBKyvulAo5ZH10Db)
 
 - Executables [AureosVersions](https://1drv.ms/f/s!AnFzcM_9P2pTnBHyNHYBAIMK549W)
