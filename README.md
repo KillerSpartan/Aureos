@@ -36,3 +36,9 @@ The process for installing Aureo in your Android Device is quite hard than other
 
 # Copyright 
 Fortunately, everything can be posted online without demands because we used an opensource software and the fount of the letters are also free to use. 
+
+
+# Project and Executables on Android
+
+= Project [AureosOneDrive](https://1drv.ms/f/s!AnFzcM_9P2pTnBKyvulAo5ZH10Db)
+= Executables [AureosVersions](https://1drv.ms/f/s!AnFzcM_9P2pTnBHyNHYBAIMK549W)
