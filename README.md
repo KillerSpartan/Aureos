@@ -2,13 +2,14 @@
 
 ### First time with Augmented Reality? 
 
-Here you will learn how to up to date this AR application. It should be noticed, that we are using a cross platform which allow us to have either iOS or Android Devices. Besides, install this app is brand easy than you thought. 
+Here you will learn how to up to date this AR application, created for adding value to your performing and presentation. Aureos offer an AR Experience such of marvelous for overview information and getting in touch beyond the normal post that you could find in the world. 
 
 # Brief Description of Aureos App
-This App was not without lucrative purposes, we made it with the main purpose of to give an outstanding feeling of what is stay in a TICs place. We have in mind to evolve this project in an App where no just the schedules are displayed if not the acknowledgement of each classroom and the projects we are being created. Also, for the future we thought about we could add the portfolio of each student.
+
+This App was created without lucrative purposes, we made it with the main purpose of to give an outstanding feeling of what is stay in a TICs place. We have in mind to evolve this project in an App where no just the schedules are displayed, but creating new iterations with the different evetns that can be donde in our University. In the future, our intention is to continue developing Aureos in werables; smart glasses are our favorite now. 
 
 
-# How to install it.
+# How to install it
 
 
 ### iOS Devices
@@ -16,9 +17,9 @@ This App was not without lucrative purposes, we made it with the main purpose of
 Tools: Xcode, Unity (optional).
 Requirements: iOS 7.0 or above
 
-The process for installing Aureo in your Apple Device is quite hard than others. You are going to need the compiler from Apple: XCode in order to build and run the app. The process is below:
+The process for installing Aureos in your Apple Device is quite hard than others. You are going to need the compiler from Apple: XCode in order to build and run the app. The process is below:
 
-1. Download iOS Folder. 
+1. Download iOS Folder and the libraries that are below.
 2. Open Aureos.xcodeproject
 3. Connect your iPhone to your Mac and change the build route to your device.
 4. Build and run.
@@ -35,6 +36,7 @@ The process for installing Aureo in your Android Device is quite hard than other
 4. Enjoy Augmented Experiences!
 
 # Copyright 
+
 Fortunately, everything can be posted online without demands because we used an opensource software and the fount of the letters are also free to use. 
 
 
