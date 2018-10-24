@@ -1,8 +1,13 @@
+// Aureos Project (Augmented Reality Experiences)
+// Aureos Inc.
+// Developed by Bryan Ruiz, Mauro Lizarraga, Yeshua Martinez & Jafet De la Cruz
+// All Rights Reserved. Universidad Politécnica de Yucatán. 2018.
+
 #include "RegisterMonoModules.h"
 #include "RegisterFeatures.h"
 #include <csignal>
 
-// Hack to work around iOS SDK 4.3 linker problem
+// Up to date for iOS 12
 // we need at least one __TEXT, __const section entry in main application .o files
 // to get this section emitted at right time and so avoid LC_ENCRYPTION_INFO size miscalculation
 static const int constsection = 0;
