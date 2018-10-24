@@ -40,5 +40,6 @@ Fortunately, everything can be posted online without demands because we used an 
 
 # Project and Executables on Android
 
-= Project [AureosOneDrive](https://1drv.ms/f/s!AnFzcM_9P2pTnBKyvulAo5ZH10Db)
-= Executables [AureosVersions](https://1drv.ms/f/s!AnFzcM_9P2pTnBHyNHYBAIMK549W)
+- Project [AureosOneDrive](https://1drv.ms/f/s!AnFzcM_9P2pTnBKyvulAo5ZH10Db)
+
+- Executables [AureosVersions](https://1drv.ms/f/s!AnFzcM_9P2pTnBHyNHYBAIMK549W)
