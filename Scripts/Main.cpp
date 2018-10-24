@@ -1,4 +1,4 @@
-// Aureos Project (Augmented Reality Experiences)
+// Aureos Project (Augmented Reality Enviroment)
 // Aureos Inc.
 // Developed by Bryan Ruiz, Mauro Lizarraga, Yeshua Martinez & Jafet De la Cruz
 // All Rights Reserved. Universidad Politécnica de Yucatán. 2018.
