@@ -56,3 +56,6 @@ extern "C" int pthread_cond_timedwait$UNIX2003(pthread_cond_t *cond, pthread_mut
 { return pthread_cond_timedwait(cond, mutex, abstime); }
 
 #endif // TARGET_IPHONE_SIMULATOR && TARGET_TVOS_SIMULATOR
+@interface overView (argc)
+    publick
+@end
